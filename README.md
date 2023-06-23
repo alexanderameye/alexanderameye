@@ -3,6 +3,7 @@
 - 🔭 I currently enjoy working with Unity and Rust
 - 🌱 I’m currently learning graphics programming in Rust
 - 📫 How to reach me: alexanderameye@gmail.com
+- 💬 I'm writing at https://alexanderameye.github.io/notes/
 
 <!--
 **alexanderameye/alexanderameye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
