@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I currently enjoy working with Unity and Rust
+- 🌱 I’m currently learning graphics programming in Rust
 - 📫 How to reach me: alexanderameye@gmail.com
 
 <!--
